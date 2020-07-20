@@ -1,0 +1,58 @@
+
+
+
+body{
+    overflow-x: hideen;
+    
+}
+
+.navbar{
+     text-transform: uppercase;
+     font-weight: 700;
+     letter-spacing: .1rem;
+     background:rgba(0, 0, 0, 0.5);
+}
+.navbar-nav li{
+    padding-right: 0.6rem;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.home-inner{
+   width: 100%;
+}
+.caption{
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 40%;
+    color: white;
+    letter-spacing: 0.1rem;
+}
+#Welcome h1{
+    font-weight: 700;
+    text-align: center;
+  
+    
+    
+}
+#Welcome h3{
+    font-size: x-large;
+    font-weight: 700;
+    
+}
+#Projects {
+    background-color: lightgray;
+}
+#Projects h2{
+    text-align: center;
+    color: black
+}
+#Projects ul{
+    list-style: none;
+    text-align: none;
+    
+    
+}
